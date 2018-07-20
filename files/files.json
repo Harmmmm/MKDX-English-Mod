@@ -1,0 +1,75 @@
+{
+    "patchFiles": [
+        {
+            "file": "CHARA_N_P00_000.dds",
+            "offset": 512,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_001.dds",
+            "offset": 128640,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_002.dds",
+            "offset": 256768,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_003.dds",
+            "offset": 384896,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_004.dds",
+            "offset": 513024,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_005.dds",
+            "offset": 641152,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_006.dds",
+            "offset": 769280,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_007.dds",
+            "offset": 897408,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_008.dds",
+            "offset": 1025536,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_009.dds",
+            "offset": 1153664,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_010.dds",
+            "offset": 1281792,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "CHARA_N_P00_013.dds",
+            "offset": 1666176,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "TOPBAR_PACK.dds",
+            "offset": 1048768,
+            "target": "\\Data\\flash\\data_jp\\topbar\\topbartex.pac"
+        },
+        {
+            "file": "VERSION.bin",
+            "offset": 3444,
+            "target": "\\Data\\TxtMessage\\data_jp\\txbn\\board.txbn"
+        }
+    ],
+    "patchName": "MKDX English Mod V0.1"
+}
