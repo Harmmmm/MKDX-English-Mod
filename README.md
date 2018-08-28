@@ -1,11 +1,12 @@
 # MKDX-English-Mod
 
-One Paragraph of project description goes here
+This mod will translate Mario Kart Arcade GP DX from Japanese to English.
+Note: This mod is still very much a work in progress!
 
 ## Installing
 
 * Make sure you have MKDX version 1.10.22!
-* Clone or download the project
+* Download latest release
 * Unzip
 * Run the patcher
 
@@ -15,10 +16,27 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me!
 
 ## Thanks
 
-* Person 1
-* Person 2
+* Seam - For his epic GIMP skills!
+* Harm - For being awesome :)
+
+## TODO
+
+* Optimize the patcher
+* Translate rest of the Japanese images
+* Translate test menu
+* Translate board startup screen
 
 ## Version History
+
+### 0.2 (26-08-2018)
+
+First public release!
+
+* Attract mode: 50%
+* Select character screen: 100%
+* Banapassport screens: 90%
+* Menu titles: 99%
+* Windows 10 tweaks to the patcher
 
 ### 0.1 (20-07-2018)
 

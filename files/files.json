@@ -1,69 +1,229 @@
 {
     "patchFiles": [
         {
-            "file": "CHARA_N_P00_000.dds",
+            "file": "Harm\\CHARA_N_P00_000.dds",
             "offset": 512,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_001.dds",
+            "file": "Harm\\CHARA_N_P00_001.dds",
             "offset": 128640,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_002.dds",
+            "file": "Harm\\CHARA_N_P00_002.dds",
             "offset": 256768,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_003.dds",
+            "file": "Harm\\CHARA_N_P00_003.dds",
             "offset": 384896,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_004.dds",
+            "file": "Harm\\CHARA_N_P00_004.dds",
             "offset": 513024,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_005.dds",
+            "file": "Harm\\CHARA_N_P00_005.dds",
             "offset": 641152,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_006.dds",
+            "file": "Harm\\CHARA_N_P00_006.dds",
             "offset": 769280,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_007.dds",
+            "file": "Harm\\CHARA_N_P00_007.dds",
             "offset": 897408,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_008.dds",
+            "file": "Harm\\CHARA_N_P00_008.dds",
             "offset": 1025536,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_009.dds",
+            "file": "Harm\\CHARA_N_P00_009.dds",
             "offset": 1153664,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_010.dds",
+            "file": "Harm\\CHARA_N_P00_010.dds",
             "offset": 1281792,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "CHARA_N_P00_013.dds",
+            "file": "Harm\\CHARA_N_P00_011.dds",
+            "offset": 1409920,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_012.dds",
+            "offset": 1538048,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_013.dds",
             "offset": 1666176,
             "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
         },
         {
-            "file": "TOPBAR_PACK.dds",
+            "file": "Harm\\CHARA_N_P00_015.dds",
+            "offset": 1922432,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_016.dds",
+            "offset": 2093216,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_100.dds",
+            "offset": 2520256,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_101.dds",
+            "offset": 2648384,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_104.dds",
+            "offset": 2776512,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_105.dds",
+            "offset": 2904640,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_107.dds",
+            "offset": 3032768,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_110.dds",
+            "offset": 3160896,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_111.dds",
+            "offset": 3289024,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_205.dds",
+            "offset": 3673408,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\CHARA_N_P00_207.dds",
+            "offset": 3801536,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\chara_name_p00.pac"
+        },
+        {
+            "file": "Harm\\TOPBAR_PACK.dds",
             "offset": 1048768,
             "target": "\\Data\\flash\\data_jp\\topbar\\topbartex.pac"
+        },
+        {
+            "file": "Harm\\UG_PACK.dds",
+            "offset": 64,
+            "target": "\\Data\\flash\\data_jp\\ug\\ugtex.pac"
+        },
+        {
+            "file": "Harm\\TITLE_01_PACK.dds",
+            "offset": 64,
+            "target": "\\Data\\flash\\data_jp\\title\\titletex.pac"
+        },
+        {
+            "file": "Harm\\RESULT_PACK.dds",
+            "offset": 64,
+            "target": "\\Data\\flash\\data_jp\\result\\resulttex.pac"
+        },
+        {
+            "file": "Harm\\LOAD_02_PACK.dds",
+            "offset": 131392,
+            "target": "\\Data\\flash\\data_jp\\load\\loadtex.pac"
+        },
+        {
+            "file": "Harm\\LOAD_06_PACK.dds",
+            "offset": 4850240,
+            "target": "\\Data\\flash\\data_jp\\load\\loadtex.pac"
+        },
+        {
+            "file": "Harm\\SEL_CHARA_PACK.dds",
+            "offset": 64,
+            "target": "\\Data\\flash\\data_jp\\select_chara\\select_charatex.pac"
+        },
+        {
+            "file": "Harm\\P_M_BANA_F_5.dds",
+            "offset": 1167712,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\popup_bana.pac"
+        },
+        {
+            "file": "Harm\\P_M_BANA_G_4.dds",
+            "offset": 10505408,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\popup_bana.pac"
+        },
+        {
+            "file": "Harm\\P_M_BANA_G_12.dds",
+            "offset": 5831392,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\popup_bana.pac"
+        },
+        {
+            "file": "Harm\\P_M_BANA_F_1.dds",
+            "offset": 294208,
+            "target": "\\Data\\flash\\data_jp\\common_tex\\tex\\popup_bana.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_01_01.dds",
+            "offset": 4194496,
+            "target": "\\Data\\flash\\data_jp\\attract_01\\attract_01tex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_02_02.dds",
+            "offset": 20971872,
+            "target": "\\Data\\flash\\data_jp\\attract_02\\attract_02tex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_03_01.dds",
+            "offset": 4194528,
+            "target": "\\Data\\flash\\data_jp\\attract_03\\attract_03tex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_03_02.dds",
+            "offset": 20971872,
+            "target": "\\Data\\flash\\data_jp\\attract_03\\attract_03tex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_COMMON_PACK.dds",
+            "offset": 160,
+            "target": "\\Data\\flash\\data_jp\\attract\\attracttex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_04.dds",
+            "offset": 33554976,
+            "target": "\\Data\\flash\\data_jp\\attract\\attracttex.pac"
+        },
+        {
+            "file": "Seam\\ATTRACT_PACK_06.dds",
+            "offset": 67109664,
+            "target": "\\Data\\flash\\data_jp\\attract\\attracttex.pac"
+        },
+        {
+            "file": "Harm\\CREDIT_PACK.dds",
+            "offset": 64,
+            "target": "\\Data\\flash\\data_jp\\credit\\credittex.pac"
+        },
+        {
+            "file": "Harm\\POPUP_PACK.dds",
+            "offset": 35652224,
+            "target": "\\Data\\flash\\data_jp\\popup\\popuptex.pac"
         },
         {
             "file": "VERSION.bin",
@@ -71,5 +231,5 @@
             "target": "\\Data\\TxtMessage\\data_jp\\txbn\\board.txbn"
         }
     ],
-    "patchName": "MKDX English Mod V0.1"
+    "patchName": "MKDX English Mod V0.2"
 }
