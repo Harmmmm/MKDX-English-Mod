@@ -1,6 +1,6 @@
 # MKDX-English-Mod
 
-This mod will translate Mario Kart Arcade GP DX from Japanese to English.
+This mod will translate Mario Kart Arcade GP DX from Japanese to English.  
 Note: This mod is still very much a work in progress!
 
 ## Installing
