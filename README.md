@@ -28,7 +28,7 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me!
 
 ## Version History
 
-### 0.2 (26-08-2018)
+### 0.2 (28-08-2018)
 
 First public release!
 
