@@ -16,17 +16,35 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me!
 
 ## Thanks
 
+* Deidos - For all of his translation work!
+* Genjuro - For all the help!
+* Harm - For being awesome ;)
 * Seam - For his epic GIMP skills!
-* Harm - For being awesome :)
 
 ## TODO
 
-* Optimize the patcher
 * Translate rest of the Japanese images
 * Translate test menu
 * Translate board startup screen
 
 ## Version History
+
+### 0.3 (17-09-2018)
+
+New new new!
+
+* Attract mode: 100%
+* Select character screen: 100%
+* Banapassport screens: 99%
+* Menu titles: 100%
+* Select items screens: 90%
+* Select track screen: 50%
+* English ingame character names
+Improved patcher:
+* Alot faster
+* More responsive
+* Support for txbn text files
+* Easier to configure
 
 ### 0.2 (28-08-2018)
 
