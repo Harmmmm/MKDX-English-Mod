@@ -40,6 +40,7 @@ New new new!
 * Select items screens: 90%
 * Select track screen: 50%
 * English ingame character names
+
 Improved patcher:
 * Alot faster
 * More responsive
