@@ -1,7 +1,6 @@
 target,file,offset,MKDX English Mod V0.3
 \Data\flash\data_jp\attract\attracttex.pac,ATTRACT_COMMON_PACK.dds,160,
 \Data\flash\data_jp\attract\attracttex.pac,ATTRACT_PACK_04.dds,33554976,
-\Data\flash\data_jp\attract\attracttex.pac,ATTRACT_PACK_06.dds,67109664,
 \Data\flash\data_jp\attract\attracttex.pac,ATTRACT_PACK_05.dds,50332320,
 \Data\flash\data_jp\attract\attracttex.pac,ATTRACT_PACK_06.dds,67109664,
 \Data\flash\data_jp\attract_01\attract_01tex.pac,ATTRACT_PACK_01_01.dds,4194496,
@@ -72,6 +71,7 @@ target,file,offset,MKDX English Mod V0.3
 \Data\flash\data_jp\common_tex\tex\popup_bana.pac,P_M_BANA_G_4.dds,10505408,
 \Data\flash\data_jp\common_tex\tex\popup_bana.pac,P_M_BANA_G_12.dds,5831392,
 \Data\flash\data_jp\common_tex\tex\popup_bana.pac,P_M_BANA_F_1.dds,294208,
+\Data\flash\data_jp\common_tex\tex\popup_bana.pac,P_M_BANA_G_34.dds,10358624,
 \Data\flash\data_jp\credit\credittex.pac,CREDIT_PACK.dds,64,
 \Data\flash\data_jp\load\loadtex.pac,LOAD_02_PACK.dds,131392,
 \Data\flash\data_jp\load\loadtex.pac,LOAD_06_PACK.dds,4850240,
