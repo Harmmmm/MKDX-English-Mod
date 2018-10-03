@@ -24,10 +24,22 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me!
 ## TODO
 
 * Translate rest of the Japanese images
-* Translate test menu
-* Translate board startup screen
 
 ## Version History
+
+### 0.4 (04-10-2018)
+
+Moar english!
+
+* Mode selection screen
+* Kart names
+* Cup names
+* Yoshi's slot machine
+* Board startup screen
+* Item names and descriptions
+* Race tips popups
+* Test mode
+* Misc. other stuff
 
 ### 0.3 (17-09-2018)
 
