@@ -12,7 +12,7 @@ Note: This mod is still very much a work in progress!
 
 ## Help needed!
 
-Do you speak Japanese and/or have some Photoshop skills? Please contact me!
+Do you speak Japanese and/or have some Photoshop skills? Please contact me on discord!
 
 ## Thanks
 
@@ -26,6 +26,25 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me!
 * Translate rest of the Japanese images
 
 ## Version History
+
+### 0.5 (25-03-2019)
+
+The big one!
+
+* Multiplayer!!
+* National match
+  * All cities
+  * All regions
+  * All track names
+  * Avatar selection
+  * Random popup text
+* Grand Prix final touches
+* All ranks (3500!)
+* Misc.
+  * QR code screens
+  * Errors
+  * Banapassport messages
+  * Patcher support for JConfig
 
 ### 0.4 (04-10-2018)
 
