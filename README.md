@@ -27,6 +27,32 @@ Do you speak Japanese and/or have some Photoshop skills? Please contact me on di
 
 ## Version History
 
+### 0.6 (26-05-2019)
+
+Lots of small stuff!
+
+* Tips/Trivia screens!
+* All unlocked screens:
+  * Character
+  * Kart
+  * Item
+  * Cup
+  * Track
+  * Class
+  * Costume
+  * Rank
+* QR screens
+* Camera screens
+* Exclusive item popup's
+* Bonus item popup's
+* Fixed item descriptions
+* Fixed some ranks ( No more "Local Rapist" ;) )
+* Multiplayer messages (Connecting, X players in lobby etc.)
+* Insert coin message
+* Item selection messages
+* Final lap sign!
+* Corrected fonts
+
 ### 0.5 (25-03-2019)
 
 The big one!
